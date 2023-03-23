@@ -13,10 +13,12 @@ int l;
 l = n % 10;
 if (l < 10)
 {
+_putchar(-l + 48);
 return (-l);
 }
 else
 {
+_putchar(l + 48);
 return (l);
 }
 }
