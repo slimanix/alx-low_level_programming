@@ -15,7 +15,7 @@ if (l < 10)
 {
 return (-l);
 }
-else if
+else
 {
 return (l);
 }
