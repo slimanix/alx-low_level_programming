@@ -7,7 +7,7 @@
  * Return: Absolute value
  */
 
-int _abs(n)
+int _abs(int n)
 {
 if (n >= 0)
 {
