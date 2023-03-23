@@ -2,19 +2,19 @@
 
 /**
  * _abs - return absolut methode of a intiger
- * @int: the character to be checked
+ * @n: the character to be checked
  *
  * Return: Absolute value
  */
 
 int _abs(int)
 {
-if (int >= 0)
+if (n >= 0)
 {
-return (int);
+return (n);
 }
 else
 {
-return (int * -1);
+return (n * -1);
 }
 }
