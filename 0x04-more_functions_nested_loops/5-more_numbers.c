@@ -1,9 +1,5 @@
 #include"main.h"
 
-void more_numbers(void)
-{
-#include"main.h"
-
 /**
 * more_numbers - return 0 - 14 ten times
 *
