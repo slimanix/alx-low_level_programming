@@ -1,5 +1,9 @@
 #include"main.h"
 
+void more_numbers(void)
+{
+#include"main.h"
+
 /**
 * more_numbers - return 0 - 14 ten times
 *
@@ -24,4 +28,5 @@ num = count % 10;
 _putchar(num + 48);
 }
 _putchar('\n');
+}
 }
