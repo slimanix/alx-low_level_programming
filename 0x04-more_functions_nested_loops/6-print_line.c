@@ -1,11 +1,11 @@
 #include"main.h"
 
 /**
- * print_line - print a straight line
- * @n: the numer of straight lines
- *
- * Return: Always 0 (Success)
- */
+* print_line - print a straight line
+* @n: the numer of straight lines
+*
+* Return: Always 0 (Success)
+*/
 
 void print_line(int n)
 {
